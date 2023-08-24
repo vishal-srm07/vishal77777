@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishal-srm07 AKA Vishal bhashyaam
+- 👋 Hi, I’m @vishalbhashyaam AKA Vishal bhashyaam
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Open-Source projects
